@@ -7,4 +7,4 @@ sentence-transformers
 pypdf
 transformers
 torch
-faiss-cpu==1.7.4
+faiss-cpu
