@@ -1,0 +1,15 @@
+{
+  "cSpell.ignoreWords": [
+    "langchain_groq"
+  ],
+  "cSpell.words": [
+    "FAISS",
+    "groq",
+    "Groq",
+    "GROQ",
+    "Indias",
+    "vectorstore",
+    "Vectorstore",
+    "vectorstores"
+  ]
+}
