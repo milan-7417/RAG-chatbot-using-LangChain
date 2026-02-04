@@ -3,8 +3,8 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
-chromadb
 sentence-transformers
 pypdf
 transformers
 torch
+Faiss-cpu==1.7.4
